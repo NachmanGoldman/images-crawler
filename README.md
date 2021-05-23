@@ -1,5 +1,5 @@
 [Java Doc](api/com/example/ex3_goldman_nachman/package-summary.html)
-## This program search for and summarize images (number) of given URL.
+## A Java program search for and summarize images (number) of given URL.
 
 I built map to store the thread called Crawler, the index (or key) is the session ID
 and the value is my own class that have a Crawler class that is actually thread.  
